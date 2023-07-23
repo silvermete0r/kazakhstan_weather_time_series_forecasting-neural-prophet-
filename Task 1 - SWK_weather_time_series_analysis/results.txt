@@ -1,0 +1,6 @@
+[Neural Prophet] Results:
+  * Mean absolute error: 2.5428408186613294
+  * Mean squared error: 9.15893259791455
+  * Root mean squared error: 3.0263728451587966
+  * R-squared: 0.5842387748523712
+  * Accuracy: 0.8797993290959416
